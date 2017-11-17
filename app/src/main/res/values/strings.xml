@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GSBMobileBLE</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_apps">MainApps</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="strTitle">Point of sale</string>
+    <string name="searchMenu">SearchMenu</string>
+    <string name="labalHeadapp1">Domestic Card</string>
+    <string name="labalHeadapp2">Foreign Card</string>
+
+    <string name="button_sale">Sale</string>
+    <string name="button_void">Void</string>
+    <string name="button_refund">Refund</string>
+
+
+    <string name="txt_auth">Auth</string>
+    <string name="txt_print">Print</string>
+    <string name="txt_settle">Setter</string>
+    <string name="txt_adjustment">Adjusment</string>
+    <string name="txt_balance">Balance</string>
+    <string name="txt_points">Points</string>
+    <string name="txt_quickpass">Quick Pass</string>
+    <string name="txt_all">All</string>
+
+</resources>
